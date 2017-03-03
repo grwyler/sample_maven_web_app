@@ -1,3 +1,2 @@
-Running echo $JDBC_DATABASE_URL on quiet-bayou-68640... starting, run.3128 (Free)
-Running echo $JDBC_DATABASE_URL on quiet-bayou-68640... connecting, run.3128 (Free)
-Running echo $JDBC_DATABASE_URL on quiet-bayou-68640... up, run.3128 (Free)
+Running echo $JDBC_DATABASE_URL on quiet-bayou-68640... !
+ ▸    EAI_AGAIN: getaddrinfo EAI_AGAIN api.heroku.com:443
