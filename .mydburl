@@ -1,1 +1,1 @@
-jdbc:postgresql://ec2-54-235-204-221.compute-1.amazonaws.com:5432/d19m0j1erhvr7v?user=wxojhmodfpbmsv&password=80cfef5defecd78ff44e5e2bab48a26b06f930d1f57e097a6be957be98358c53&sslmode=require
+jdbc:postgresql://ec2-54-243-185-99.compute-1.amazonaws.com:5432/dfq54n88eaif9?user=avvppjvhtjiepl&password=344836dbdccf7d192f21bc80a585ce8c385aa6f019c30860bbf60fc4b7b9e76d&sslmode=require
